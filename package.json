@@ -26,7 +26,7 @@
   "homepage": "https://github.com/RocketChat/Rocket.Chat.Apps-ts-definition#readme",
   "devDependencies": {
     "del": "^3.0.0",
-    "eslint": "^4.19.1",
+    "eslint": "^8.40.0",
     "gulp": "^3.9.1",
     "gulp-shell": "^0.6.5",
     "gulp-sourcemaps": "^2.6.4",
